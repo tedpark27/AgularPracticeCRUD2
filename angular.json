@@ -52,7 +52,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/Prakash/Desktop/Angular/AngularPracticeCRUD/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "C:/Users/Prakash/Desktop/Angular/AngularPracticeCRUD/node_modules/ngx-bootstrap/datepicker/bs-datepicker.css"
             ],
             "scripts": []
           },
@@ -148,5 +150,8 @@
       }
     }
   },
-  "defaultProject": "AngularPracticeCRUD"
+  "defaultProject": "AngularPracticeCRUD",
+  "cli": {
+    "analytics": "cfb57697-a351-4cc4-9273-2fff6d5c6639"
+  }
 }
